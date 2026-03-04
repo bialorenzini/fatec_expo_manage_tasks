@@ -3,6 +3,7 @@
     "name": "fatec_expo_manage_tasks",
     "slug": "fatec_expo_manage_tasks",
     "version": "1.0.0",
+    "scheme": "lista-tarefas",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
